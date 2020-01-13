@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filip Maric | Luka Petrović</title>
+    <link>https://lpetrovic.github.io/authors/filip-maric/</link>
+      <atom:link href="https://lpetrovic.github.io/authors/filip-maric/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filip Maric</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Tue, 15 Oct 2019 00:12:05 +0200</lastBuildDate>
+    <image>
+      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <title>Filip Maric</title>
+      <link>https://lpetrovic.github.io/authors/filip-maric/</link>
+    </image>
+    
+    <item>
+      <title>Fast Manipulability Maximization Using Continuous-Time Trajectory Optimization</title>
+      <link>https://lpetrovic.github.io/publication/iros2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
+      <guid>https://lpetrovic.github.io/publication/iros2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
