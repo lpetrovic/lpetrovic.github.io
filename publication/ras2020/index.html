@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="This paper presents a stabilizing model predictive control (MPC) algorithm based on the off-line computation of sequence of 1-step controllable sets for linear parameter varying systems and a parameter learning technique that improves its performance. The presented MPC algorithm guarantees nonmonotone convergence towards a suitably chosen terminal set regardless of the system parameters, while the parameter learning technique is used to improve performance. The benefits of such an approach are shown in application of the proposed algorithm on a laboratory rotary inverted pendulum system.">
+  <meta name="description" content="High dimensional robot motion planning has recently been approached with trajectory optimization methods that efficiently minimize a suitable objective function in order to generate robot trajectories that are both optimal and feasible. However, finding a globally optimal solution is often an insurmountable problem in practice and state-of-the-art trajectory optimization methods are thus prone to local minima, mainly in cluttered environments. In this paper, we propose a novel trajectory planning algorithm that employs stochastic optimization in order to find a collision-free trajectory generated from a continuous-time Gaussian process (GP). The contributions of the proposed motion planning method stem from introducing the heteroscedasticity of the GP, together with exploited sparsity for efficient covariance estimation, and a cross-entropy based stochastic optimization for importance sampling based trajectory optimization. We evaluate the proposed method on three simulated scenarios: a maze benchmark, a 7 DOF robot arm planning benchmark and a 10 DOF mobile manipulator trajectory planning example and compare it to a state-of-the-art GP trajectory optimization method, namely the Gaussian process motion planner 2 algorithm (GPMP2). Our results demonstrate the following: (i) the proposed method yields a more thorough exploration of the solution space in complex environments than GPMP2, while having comparable execution time, (ii) the introduced heteroscedasticity generates GP priors better suited for collision avoidance and (iii) the proposed method has the ability to efficiently tackle high-dimensional trajectory planning problems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://lpetrovic.github.io/publication/edpe2017/">
+  <link rel="alternate" hreflang="en-us" href="https://lpetrovic.github.io/publication/ras2020/">
 
   
 
@@ -95,7 +95,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://lpetrovic.github.io/publication/edpe2017/">
+  <link rel="canonical" href="https://lpetrovic.github.io/publication/ras2020/">
 
   
   
@@ -108,15 +108,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Luka Petrović">
-  <meta property="og:url" content="https://lpetrovic.github.io/publication/edpe2017/">
-  <meta property="og:title" content="Self-learning model predictive control based on the sequence of controllable sets | Luka Petrović">
-  <meta property="og:description" content="This paper presents a stabilizing model predictive control (MPC) algorithm based on the off-line computation of sequence of 1-step controllable sets for linear parameter varying systems and a parameter learning technique that improves its performance. The presented MPC algorithm guarantees nonmonotone convergence towards a suitably chosen terminal set regardless of the system parameters, while the parameter learning technique is used to improve performance. The benefits of such an approach are shown in application of the proposed algorithm on a laboratory rotary inverted pendulum system."><meta property="og:image" content="https://lpetrovic.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://lpetrovic.github.io/publication/ras2020/">
+  <meta property="og:title" content="Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes | Luka Petrović">
+  <meta property="og:description" content="High dimensional robot motion planning has recently been approached with trajectory optimization methods that efficiently minimize a suitable objective function in order to generate robot trajectories that are both optimal and feasible. However, finding a globally optimal solution is often an insurmountable problem in practice and state-of-the-art trajectory optimization methods are thus prone to local minima, mainly in cluttered environments. In this paper, we propose a novel trajectory planning algorithm that employs stochastic optimization in order to find a collision-free trajectory generated from a continuous-time Gaussian process (GP). The contributions of the proposed motion planning method stem from introducing the heteroscedasticity of the GP, together with exploited sparsity for efficient covariance estimation, and a cross-entropy based stochastic optimization for importance sampling based trajectory optimization. We evaluate the proposed method on three simulated scenarios: a maze benchmark, a 7 DOF robot arm planning benchmark and a 10 DOF mobile manipulator trajectory planning example and compare it to a state-of-the-art GP trajectory optimization method, namely the Gaussian process motion planner 2 algorithm (GPMP2). Our results demonstrate the following: (i) the proposed method yields a more thorough exploration of the solution space in complex environments than GPMP2, while having comparable execution time, (ii) the introduced heteroscedasticity generates GP priors better suited for collision avoidance and (iii) the proposed method has the ability to efficiently tackle high-dimensional trajectory planning problems."><meta property="og:image" content="https://lpetrovic.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://lpetrovic.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2017-09-19T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-01-02T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2017-09-19T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-01-02T00:00:00&#43;00:00">
   
 
   
@@ -149,12 +149,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://lpetrovic.github.io/publication/edpe2017/"
+    "@id": "https://lpetrovic.github.io/publication/ras2020/"
   },
-  "headline": "Self-learning model predictive control based on the sequence of controllable sets",
+  "headline": "Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes",
   
-  "datePublished": "2017-09-19T00:00:00Z",
-  "dateModified": "2017-09-19T00:00:00Z",
+  "datePublished": "2020-01-02T00:00:00Z",
+  "dateModified": "2020-01-02T00:00:00Z",
   
   "publisher": {
     "@type": "Organization",
@@ -164,7 +164,7 @@
       "url": "https://lpetrovic.github.io/img/icon-512.png"
     }
   },
-  "description": "This paper presents a stabilizing model predictive control (MPC) algorithm based on the off-line computation of sequence of 1-step controllable sets for linear parameter varying systems and a parameter learning technique that improves its performance. The presented MPC algorithm guarantees nonmonotone convergence towards a suitably chosen terminal set regardless of the system parameters, while the parameter learning technique is used to improve performance. The benefits of such an approach are shown in application of the proposed algorithm on a laboratory rotary inverted pendulum system."
+  "description": "High dimensional robot motion planning has recently been approached with trajectory optimization methods that efficiently minimize a suitable objective function in order to generate robot trajectories that are both optimal and feasible. However, finding a globally optimal solution is often an insurmountable problem in practice and state-of-the-art trajectory optimization methods are thus prone to local minima, mainly in cluttered environments. In this paper, we propose a novel trajectory planning algorithm that employs stochastic optimization in order to find a collision-free trajectory generated from a continuous-time Gaussian process (GP). The contributions of the proposed motion planning method stem from introducing the heteroscedasticity of the GP, together with exploited sparsity for efficient covariance estimation, and a cross-entropy based stochastic optimization for importance sampling based trajectory optimization. We evaluate the proposed method on three simulated scenarios: a maze benchmark, a 7 DOF robot arm planning benchmark and a 10 DOF mobile manipulator trajectory planning example and compare it to a state-of-the-art GP trajectory optimization method, namely the Gaussian process motion planner 2 algorithm (GPMP2). Our results demonstrate the following: (i) the proposed method yields a more thorough exploration of the solution space in complex environments than GPMP2, while having comparable execution time, (ii) the introduced heteroscedasticity generates GP priors better suited for collision avoidance and (iii) the proposed method has the ability to efficiently tackle high-dimensional trajectory planning problems."
 }
 </script>
 
@@ -182,7 +182,7 @@
 
 
 
-  <title>Self-learning model predictive control based on the sequence of controllable sets | Luka Petrović</title>
+  <title>Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes | Luka Petrović</title>
 
 </head>
 
@@ -416,7 +416,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Self-learning model predictive control based on the sequence of controllable sets</h1>
+  <h1>Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes</h1>
 
   
 
@@ -436,7 +436,7 @@
 
 
 
-  <span><a href="/authors/luka-petrovic/">Luka Petrović</a></span>, <span><a href="/authors/sandor-iles/">Šandor Ileš</a></span>, <span><a href="/authors/jadranko-matusko/">Jadranko Matuško</a></span>
+  <span><a href="/authors/luka-petrovic/">Luka Petrović</a></span>, <span><a href="/authors/juraj-persic/">Juraj Peršić</a></span>, <span><a href="/authors/marija-seder/">Marija Seder</a></span>, <span><a href="/authors/ivan-markovic/">Ivan Marković</a></span>
 
   </div>
   
@@ -448,7 +448,7 @@
     
       
     
-    September 2017
+    January 2020
   </span>
   
 
@@ -484,45 +484,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8123230" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
 
   
 </div>
@@ -533,7 +494,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This paper presents a stabilizing model predictive control (MPC) algorithm based on the off-line computation of sequence of 1-step controllable sets for linear parameter varying systems and a parameter learning technique that improves its performance. The presented MPC algorithm guarantees nonmonotone convergence towards a suitably chosen terminal set regardless of the system parameters, while the parameter learning technique is used to improve performance. The benefits of such an approach are shown in application of the proposed algorithm on a laboratory rotary inverted pendulum system.</p>
+    <p class="pub-abstract">High dimensional robot motion planning has recently been approached with trajectory optimization methods that efficiently minimize a suitable objective function in order to generate robot trajectories that are both optimal and feasible. However, finding a globally optimal solution is often an insurmountable problem in practice and state-of-the-art trajectory optimization methods are thus prone to local minima, mainly in cluttered environments. In this paper, we propose a novel trajectory planning algorithm that employs stochastic optimization in order to find a collision-free trajectory generated from a continuous-time Gaussian process (GP). The contributions of the proposed motion planning method stem from introducing the heteroscedasticity of the GP, together with exploited sparsity for efficient covariance estimation, and a cross-entropy based stochastic optimization for importance sampling based trajectory optimization. We evaluate the proposed method on three simulated scenarios: a maze benchmark, a 7 DOF robot arm planning benchmark and a 10 DOF mobile manipulator trajectory planning example and compare it to a state-of-the-art GP trajectory optimization method, namely the Gaussian process motion planner 2 algorithm (GPMP2). Our results demonstrate the following: (i) the proposed method yields a more thorough exploration of the solution space in complex environments than GPMP2, while having comparable execution time, (ii) the introduced heteroscedasticity generates GP priors better suited for collision avoidance and (iii) the proposed method has the ability to efficiently tackle high-dimensional trajectory planning problems.</p>
     
 
     
@@ -563,7 +524,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">International Conference on Electrical Drives and Power Electronics (EDPE)</div>
+          <div class="col-12 col-md-9">Submitted to Robotics and Autonomous Systems (invited paper from ECMR 2019)</div>
         </div>
       </div>
       <div class="col-md-1"></div>

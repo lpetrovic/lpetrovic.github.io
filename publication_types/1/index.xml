@@ -5,12 +5,28 @@
     <link>https://lpetrovic.github.io/publication_types/1/</link>
       <atom:link href="https://lpetrovic.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Tue, 15 Oct 2019 00:12:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lpetrovic.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://lpetrovic.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes</title>
+      <link>https://lpetrovic.github.io/publication/ras2020/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/ras2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Processes Incremental Inference for Mobile Robots Dynamic Planning</title>
+      <link>https://lpetrovic.github.io/publication/ifac2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/ifac2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Manipulability Maximization Using Continuous-Time Trajectory Optimization</title>

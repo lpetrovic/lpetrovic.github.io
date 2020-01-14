@@ -5,7 +5,7 @@
     <link>https://lpetrovic.github.io/authors/</link>
       <atom:link href="https://lpetrovic.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lpetrovic.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,41 +13,49 @@
     </image>
     
     <item>
-      <title>Ivan Markovic</title>
+      <title>Ivan Marković</title>
       <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/ivan-markovic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ivan Petrovic</title>
+      <title>Ivan Petrović</title>
       <link>https://lpetrovic.github.io/authors/ivan-petrovic/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/ivan-petrovic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Juraj Persic</title>
+      <title>Juraj Peršić</title>
       <link>https://lpetrovic.github.io/authors/juraj-persic/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/juraj-persic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Luka Petrovic</title>
+      <title>Luka Petrović</title>
       <link>https://lpetrovic.github.io/authors/luka-petrovic/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/luka-petrovic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Filip Maric</title>
+      <title>Marija Seder</title>
+      <link>https://lpetrovic.github.io/authors/marija-seder/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/authors/marija-seder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filip Marić</title>
       <link>https://lpetrovic.github.io/authors/filip-maric/</link>
-      <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/filip-maric/</guid>
       <description></description>
     </item>
@@ -125,14 +133,6 @@
     </item>
     
     <item>
-      <title>Marija Seder</title>
-      <link>https://lpetrovic.github.io/authors/marija-seder/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/marija-seder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tomislav Petković</title>
       <link>https://lpetrovic.github.io/authors/tomislav-petkovic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
@@ -145,12 +145,12 @@
       <link>https://lpetrovic.github.io/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student in robotics, focused on trajectory optimization methods for high dimensional motion planning. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (&lt;u&gt;&lt;a href=&#34;http://lamor.fer.hr&#34;&gt;LAMOR&lt;/a&gt;&lt;/u&gt;) and a teaching assistant at University of Zagreb.&lt;/p&gt;
+      <description>&lt;p&gt;I am a PhD student in robotics, focused on trajectory optimization methods for high dimensional robot motion planning. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (&lt;u&gt;&lt;a href=&#34;http://lamor.fer.hr&#34;&gt;LAMOR&lt;/a&gt;&lt;/u&gt;) and a teaching assistant at the University of Zagreb.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Jadranko Matusko</title>
+      <title>Jadranko Matuško</title>
       <link>https://lpetrovic.github.io/authors/jadranko-matusko/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/jadranko-matusko/</guid>
@@ -158,7 +158,7 @@
     </item>
     
     <item>
-      <title>Sandor Iles</title>
+      <title>Šandor Ileš</title>
       <link>https://lpetrovic.github.io/authors/sandor-iles/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/sandor-iles/</guid>
