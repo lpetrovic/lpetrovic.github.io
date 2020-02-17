@@ -5,7 +5,7 @@
     <link>https://lpetrovic.github.io/authors/</link>
       <atom:link href="https://lpetrovic.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lpetrovic.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Ivan Marković</title>
-      <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/ivan-markovic/</guid>
+      <title>Filip Marić</title>
+      <link>https://lpetrovic.github.io/authors/filip-maric/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/authors/filip-maric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ivan Petrović</title>
       <link>https://lpetrovic.github.io/authors/ivan-petrovic/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/ivan-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Kelly</title>
+      <link>https://lpetrovic.github.io/authors/jonathan-kelly/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/authors/jonathan-kelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luka Petrović</title>
+      <link>https://lpetrovic.github.io/authors/luka-petrovic/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/authors/luka-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Marković</title>
+      <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/authors/ivan-markovic/</guid>
       <description></description>
     </item>
     
@@ -37,34 +61,10 @@
     </item>
     
     <item>
-      <title>Luka Petrović</title>
-      <link>https://lpetrovic.github.io/authors/luka-petrovic/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/luka-petrovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marija Seder</title>
       <link>https://lpetrovic.github.io/authors/marija-seder/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://lpetrovic.github.io/authors/marija-seder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filip Marić</title>
-      <link>https://lpetrovic.github.io/authors/filip-maric/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/filip-maric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Kelly</title>
-      <link>https://lpetrovic.github.io/authors/jonathan-kelly/</link>
-      <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/authors/jonathan-kelly/</guid>
       <description></description>
     </item>
     
