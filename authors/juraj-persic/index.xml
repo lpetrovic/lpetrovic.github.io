@@ -5,12 +5,20 @@
     <link>https://lpetrovic.github.io/authors/juraj-persic/</link>
       <atom:link href="https://lpetrovic.github.io/authors/juraj-persic/index.xml" rel="self" type="application/rss+xml" />
     <description>Juraj Peršić</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lpetrovic.github.io/img/icon-192.png</url>
       <title>Juraj Peršić</title>
       <link>https://lpetrovic.github.io/authors/juraj-persic/</link>
     </image>
+    
+    <item>
+      <title>Online Multi-Sensor Calibration Based on Moving Object Tracking</title>
+      <link>https://lpetrovic.github.io/publication/ias2020b/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/ias2020b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatio-Temporal Multisensor Calibration Based on Gaussian Processes Moving Object Tracking</title>
