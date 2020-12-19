@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliver Limoyo | Luka Petrović</title>
-    <link>https://lpetrovic.github.io/authors/oliver-limoyo/</link>
-      <atom:link href="https://lpetrovic.github.io/authors/oliver-limoyo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/oliver-limoyo/</link>
+      <atom:link href="http://localhost:1313/authors/oliver-limoyo/index.xml" rel="self" type="application/rss+xml" />
     <description>Oliver Limoyo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Tue, 15 Oct 2019 00:12:05 +0200</lastBuildDate>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Oliver Limoyo</title>
-      <link>https://lpetrovic.github.io/authors/oliver-limoyo/</link>
+      <link>http://localhost:1313/authors/oliver-limoyo/</link>
     </image>
     
     <item>
       <title>Fast Manipulability Maximization Using Continuous-Time Trajectory Optimization</title>
-      <link>https://lpetrovic.github.io/publication/iros2019/</link>
+      <link>http://localhost:1313/publication/iros2019/</link>
       <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/publication/iros2019/</guid>
+      <guid>http://localhost:1313/publication/iros2019/</guid>
       <description></description>
     </item>
     

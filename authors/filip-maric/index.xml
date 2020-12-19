@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filip Marić | Luka Petrović</title>
-    <link>https://lpetrovic.github.io/authors/filip-maric/</link>
-      <atom:link href="https://lpetrovic.github.io/authors/filip-maric/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/filip-maric/</link>
+      <atom:link href="http://localhost:1313/authors/filip-maric/index.xml" rel="self" type="application/rss+xml" />
     <description>Filip Marić</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Filip Marić</title>
-      <link>https://lpetrovic.github.io/authors/filip-maric/</link>
+      <link>http://localhost:1313/authors/filip-maric/</link>
     </image>
     
     <item>
-      <title>Singularity Avoidance using Riemannian Geometry</title>
-      <link>https://lpetrovic.github.io/publication/ias2020/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ias2020/</guid>
+      <title>Geometry-Aware Singularity Avoidance for Articulated Robots Using a Riemannian Metric</title>
+      <link>http://localhost:1313/publication/ras2021/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ras2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Processes Incremental Inference for Mobile Robots Dynamic Planning</title>
-      <link>https://lpetrovic.github.io/publication/ifac2020/</link>
+      <link>http://localhost:1313/publication/ifac2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ifac2020/</guid>
+      <guid>http://localhost:1313/publication/ifac2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Manipulability Maximization Using Continuous-Time Trajectory Optimization</title>
-      <link>https://lpetrovic.github.io/publication/iros2019/</link>
+      <link>http://localhost:1313/publication/iros2019/</link>
       <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/publication/iros2019/</guid>
+      <guid>http://localhost:1313/publication/iros2019/</guid>
       <description></description>
     </item>
     

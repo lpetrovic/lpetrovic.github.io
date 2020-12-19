@@ -2,69 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivan Marković | Luka Petrović</title>
-    <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
-      <atom:link href="https://lpetrovic.github.io/authors/ivan-markovic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ivan-markovic/</link>
+      <atom:link href="http://localhost:1313/authors/ivan-markovic/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Marković</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Ivan Marković</title>
-      <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
+      <link>http://localhost:1313/authors/ivan-markovic/</link>
     </image>
     
     <item>
-      <title>Online Multi-Sensor Calibration Based on Moving Object Tracking</title>
-      <link>https://lpetrovic.github.io/publication/ias2020b/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ias2020b/</guid>
+      <title>Mixtures of Gaussian Processes for Robot Motion Planning using Stochastic Trajectory Optimization</title>
+      <link>http://localhost:1313/publication/tsmc2021/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tsmc2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio-Temporal Multisensor Calibration Based on Gaussian Processes Moving Object Tracking</title>
-      <link>https://lpetrovic.github.io/publication/tro2020/</link>
+      <link>http://localhost:1313/publication/tro2020/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/tro2020/</guid>
+      <guid>http://localhost:1313/publication/tro2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Entropy based Stochastic Optimization of Robot Trajectories using Heteroscedastic Continuous-time Gaussian Processes</title>
-      <link>https://lpetrovic.github.io/publication/ras2020/</link>
+      <link>http://localhost:1313/publication/ras2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ras2020/</guid>
+      <guid>http://localhost:1313/publication/ras2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Processes Incremental Inference for Mobile Robots Dynamic Planning</title>
-      <link>https://lpetrovic.github.io/publication/ifac2020/</link>
+      <link>http://localhost:1313/publication/ifac2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ifac2020/</guid>
+      <guid>http://localhost:1313/publication/ifac2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Multi-Sensor Calibration Based on Moving Object Tracking</title>
+      <link>http://localhost:1313/publication/advrob2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/advrob2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Platform Based Mobile Robot Control for Automation in Manufacturing Logistics</title>
-      <link>https://lpetrovic.github.io/publication/wroco2019/</link>
+      <link>http://localhost:1313/publication/wroco2019/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/wroco2019/</guid>
+      <guid>http://localhost:1313/publication/wroco2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Optimization for Trajectory Planning with Heteroscedastic Gaussian Processes</title>
-      <link>https://lpetrovic.github.io/publication/ecmr2019/</link>
+      <link>http://localhost:1313/publication/ecmr2019/</link>
       <pubDate>Sun, 15 Sep 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/publication/ecmr2019/</guid>
+      <guid>http://localhost:1313/publication/ecmr2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-agent Gaussian Process Motion Planning via Probabilistic Inference</title>
-      <link>https://lpetrovic.github.io/publication/syroco2018/</link>
+      <link>http://localhost:1313/publication/syroco2018/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/syroco2018/</guid>
+      <guid>http://localhost:1313/publication/syroco2018/</guid>
       <description></description>
     </item>
     

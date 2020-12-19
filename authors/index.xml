@@ -2,167 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Luka Petrović</title>
-    <link>https://lpetrovic.github.io/authors/</link>
-      <atom:link href="https://lpetrovic.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://lpetrovic.github.io/authors/</link>
+      <link>http://localhost:1313/authors/</link>
     </image>
     
     <item>
-      <title>Filip Marić</title>
-      <link>https://lpetrovic.github.io/authors/filip-maric/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/filip-maric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ivan Marković</title>
-      <link>https://lpetrovic.github.io/authors/ivan-markovic/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/ivan-markovic/</guid>
+      <link>http://localhost:1313/authors/ivan-markovic/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/ivan-markovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ivan Petrović</title>
-      <link>https://lpetrovic.github.io/authors/ivan-petrovic/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/ivan-petrovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Kelly</title>
-      <link>https://lpetrovic.github.io/authors/jonathan-kelly/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/jonathan-kelly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juraj Peršić</title>
-      <link>https://lpetrovic.github.io/authors/juraj-persic/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/juraj-persic/</guid>
+      <link>http://localhost:1313/authors/ivan-petrovic/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/ivan-petrovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luka Petrović</title>
-      <link>https://lpetrovic.github.io/authors/luka-petrovic/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/luka-petrovic/</guid>
+      <link>http://localhost:1313/authors/luka-petrovic/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/luka-petrovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filip Marić</title>
+      <link>http://localhost:1313/authors/filip-maric/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/filip-maric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Kelly</title>
+      <link>http://localhost:1313/authors/jonathan-kelly/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/jonathan-kelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juraj Peršić</title>
+      <link>http://localhost:1313/authors/juraj-persic/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/juraj-persic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marija Seder</title>
-      <link>https://lpetrovic.github.io/authors/marija-seder/</link>
+      <link>http://localhost:1313/authors/marija-seder/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/marija-seder/</guid>
+      <guid>http://localhost:1313/authors/marija-seder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oliver Limoyo</title>
-      <link>https://lpetrovic.github.io/authors/oliver-limoyo/</link>
+      <link>http://localhost:1313/authors/oliver-limoyo/</link>
       <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/authors/oliver-limoyo/</guid>
+      <guid>http://localhost:1313/authors/oliver-limoyo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trevor Ablett</title>
-      <link>https://lpetrovic.github.io/authors/trevor-ablett/</link>
+      <link>http://localhost:1313/authors/trevor-ablett/</link>
       <pubDate>Tue, 15 Oct 2019 00:12:05 +0200</pubDate>
-      <guid>https://lpetrovic.github.io/authors/trevor-ablett/</guid>
+      <guid>http://localhost:1313/authors/trevor-ablett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ali Muhammad</title>
-      <link>https://lpetrovic.github.io/authors/ali-muhammad/</link>
+      <link>http://localhost:1313/authors/ali-muhammad/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/ali-muhammad/</guid>
+      <guid>http://localhost:1313/authors/ali-muhammad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ana Šelek</title>
-      <link>https://lpetrovic.github.io/authors/ana-selek/</link>
+      <link>http://localhost:1313/authors/ana-selek/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/ana-selek/</guid>
+      <guid>http://localhost:1313/authors/ana-selek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borna Bićanić</title>
-      <link>https://lpetrovic.github.io/authors/borna-bicanic/</link>
+      <link>http://localhost:1313/authors/borna-bicanic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/borna-bicanic/</guid>
+      <guid>http://localhost:1313/authors/borna-bicanic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Damir Josić</title>
-      <link>https://lpetrovic.github.io/authors/damir-josic/</link>
+      <link>http://localhost:1313/authors/damir-josic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/damir-josic/</guid>
+      <guid>http://localhost:1313/authors/damir-josic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goran Popović</title>
-      <link>https://lpetrovic.github.io/authors/goran-popovic/</link>
+      <link>http://localhost:1313/authors/goran-popovic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/goran-popovic/</guid>
+      <guid>http://localhost:1313/authors/goran-popovic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Igor Cvišić</title>
-      <link>https://lpetrovic.github.io/authors/igor-cvisic/</link>
+      <link>http://localhost:1313/authors/igor-cvisic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/igor-cvisic/</guid>
+      <guid>http://localhost:1313/authors/igor-cvisic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tomislav Petković</title>
-      <link>https://lpetrovic.github.io/authors/tomislav-petkovic/</link>
+      <link>http://localhost:1313/authors/tomislav-petkovic/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/tomislav-petkovic/</guid>
+      <guid>http://localhost:1313/authors/tomislav-petkovic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://lpetrovic.github.io/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student in robotics, focused on trajectory optimization methods for high dimensional robot motion planning. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (&lt;u&gt;&lt;a href=&#34;http://lamor.fer.hr&#34;&gt;LAMOR&lt;/a&gt;&lt;/u&gt;) and a teaching assistant at the University of Zagreb.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Jadranko Matuško</title>
-      <link>https://lpetrovic.github.io/authors/jadranko-matusko/</link>
+      <link>http://localhost:1313/authors/jadranko-matusko/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/jadranko-matusko/</guid>
+      <guid>http://localhost:1313/authors/jadranko-matusko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Šandor Ileš</title>
-      <link>https://lpetrovic.github.io/authors/sandor-iles/</link>
+      <link>http://localhost:1313/authors/sandor-iles/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/authors/sandor-iles/</guid>
+      <guid>http://localhost:1313/authors/sandor-iles/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student in robotics, focused on trajectory optimization methods for high dimensional robot motion planning. I am a member of the Laboratory for Autonomous Systems and Mobile Robotics (&lt;u&gt;&lt;a href=&#34;http://lamor.fer.hr&#34;&gt;LAMOR&lt;/a&gt;&lt;/u&gt;) and a teaching assistant at the University of Zagreb. I am particularly interested in algorithms that generate smooth and natural motion for high degree-of-freedom robots that operate in complex and dynamic environments, with the goal of achieving safe autonomy.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

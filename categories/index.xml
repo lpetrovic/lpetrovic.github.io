@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Luka Petrović</title>
-    <link>https://lpetrovic.github.io/categories/</link>
-      <atom:link href="https://lpetrovic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/</link>
+      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://lpetrovic.github.io/categories/</link>
+      <link>http://localhost:1313/categories/</link>
     </image>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://lpetrovic.github.io/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/categories/demo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

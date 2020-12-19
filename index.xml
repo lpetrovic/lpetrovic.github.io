@@ -2,61 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luka Petrović</title>
-    <link>https://lpetrovic.github.io/</link>
-      <atom:link href="https://lpetrovic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Luka Petrović</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Luka Petrović</copyright><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Luka Petrović</title>
-      <link>https://lpetrovic.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://lpetrovic.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
-      <link>https://lpetrovic.github.io/publication/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://lpetrovic.github.io/post/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://lpetrovic.github.io/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://lpetrovic.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://lpetrovic.github.io/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://lpetrovic.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://lpetrovic.github.io/project/</guid>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
       <description></description>
     </item>
     
