@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Luka Petrović</title>
+    <link>https://lpetrovic.github.io/publication_types/3/</link>
+      <atom:link href="https://lpetrovic.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Luka Petrović</copyright><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lpetrovic.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://lpetrovic.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Mixtures of Gaussian Processes for Robot Motion Planning using Stochastic Trajectory Optimization</title>
+      <link>https://lpetrovic.github.io/publication/tsmc2021/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/tsmc2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Riemannian Metric for Geometry-Aware Singularity Avoidance by Articulated Robots</title>
+      <link>https://lpetrovic.github.io/publication/ras2021/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/ras2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble of LSTMs and feature selection for human action prediction</title>
+      <link>https://lpetrovic.github.io/publication/ias2021/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/ias2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Robot Teleoperation via Android Mobile Device with UDP Communication</title>
+      <link>https://lpetrovic.github.io/publication/mipro2021/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lpetrovic.github.io/publication/mipro2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
